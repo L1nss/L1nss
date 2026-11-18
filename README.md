@@ -90,6 +90,12 @@ Tenho interesse em transformar problemas reais em produtos simples, úteis e bem
 ## Atividade recente
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/L1nss/L1nss/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições" width="100%"/>
+</div>
+
+
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=L1nss&bg_color=0f172a&color=93c5fd&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade no GitHub" width="100%"/>
 </div>
 
