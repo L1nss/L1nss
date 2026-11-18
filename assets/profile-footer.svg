@@ -1,0 +1,8 @@
+<svg width="1200" height="170" viewBox="0 0 1200 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="f" x1="0" y1="0" x2="1200" y2="170"><stop stop-color="#171021"/><stop offset=".5" stop-color="#50356B"/><stop offset="1" stop-color="#1B1028"/></linearGradient><style>.wave{animation:wave 8s ease-in-out infinite}@keyframes wave{50%{transform:translateX(-18px)}}</style></defs>
+<rect width="1200" height="170" rx="28" fill="url(#f)"/>
+<path d="M0 105C180 25 320 190 510 105s330-80 690 0v65H0z" fill="#E7D9F5" fill-opacity=".08" class="wave"/>
+<path d="M0 125C180 45 320 210 510 125s330-80 690 0" stroke="#D9C9E8" stroke-opacity=".32" stroke-width="2" class="wave"/>
+<text x="600" y="76" text-anchor="middle" fill="#F8F3FC" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" letter-spacing="4">OBRIGADO PELA VISITA</text>
+<text x="600" y="105" text-anchor="middle" fill="#D9C9E8" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2">IDEIAS BEM CONSTRUÍDAS MOVEM O MUNDO</text>
+</svg>
