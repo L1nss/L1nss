@@ -107,6 +107,8 @@ Estou aberto a trocar ideias, colaborar em projetos e conhecer oportunidades nas
 
 <a href="mailto:dalcinryan0123@gmail.com">📧 Entre em contato por e-mail</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://wa.me/55996601385">💬 Fale comigo no WhatsApp</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ryandalcin/">🔗 Conecte-se no LinkedIn</a>
 
 <br/><br/>
