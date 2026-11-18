@@ -1,0 +1,11 @@
+<svg width="1000" height="210" viewBox="0 0 1000 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="sbg" x1="0" y1="0" x2="1000" y2="210"><stop stop-color="#1B1028"/><stop offset="1" stop-color="#50356B"/></linearGradient><style>.orbit{transform-origin:500px 105px;animation:rotate 18s linear infinite}.orbit2{transform-origin:500px 105px;animation:rotate 26s linear infinite reverse}@keyframes rotate{to{transform:rotate(360deg)}}.glow{animation:glow 3s ease-in-out infinite}@keyframes glow{50%{opacity:.45}}</style></defs>
+<rect width="1000" height="210" rx="24" fill="url(#sbg)" stroke="#BFA7D9" stroke-opacity=".35"/>
+<ellipse cx="500" cy="105" rx="350" ry="72" stroke="#E7D9F5" stroke-opacity=".18"/>
+<ellipse cx="500" cy="105" rx="250" ry="48" stroke="#E7D9F5" stroke-opacity=".14" class="orbit"/>
+<g class="orbit"><circle cx="150" cy="105" r="7" fill="#E7D9F5"/><circle cx="850" cy="105" r="7" fill="#8A64A6"/></g>
+<g class="orbit2"><circle cx="500" cy="33" r="6" fill="#BFA7D9"/><circle cx="500" cy="177" r="6" fill="#E7D9F5"/></g>
+<text x="500" y="98" text-anchor="middle" fill="#F8F3FC" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" letter-spacing="3">STACK EM MOVIMENTO</text>
+<text x="500" y="130" text-anchor="middle" fill="#D9C9E8" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2">JAVASCRIPT  •  REACT  •  VUE  •  PYTHON  •  SQL</text>
+<circle cx="500" cy="158" r="3" fill="#E7D9F5" class="glow"/>
+</svg>
