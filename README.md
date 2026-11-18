@@ -1,8 +1,8 @@
-<!-- ✨ RYAN DALCIN | NEON PROFILE ✨ -->
+<!-- ✨ RYAN DALCIN | PURPLE PROFILE ✨ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09001f,25:3b0764,55:7c3aed,80:ec4899,100:22d3ee&height=230&section=header&text=RYAN%20DALCIN&fontSize=58&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=TI%20%7C%20Web%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Infraestrutura&descAlignY=60&descSize=18" alt="Banner neon animado" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1028,25:4c2a63,55:76519b,80:a875b8,100:c9b8e8&height=230&section=header&text=RYAN%20DALCIN&fontSize=58&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=TI%20%7C%20Web%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Infraestrutura&descAlignY=60&descSize=18" alt="Banner roxo animado" width="100%"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=600&color=22D3EE&center=true&vCenter=true&width=850&lines=%E2%9A%A1+WELCOME+TO+MY+DIGITAL+UNIVERSE+%E2%9A%A1;Construindo+ideias+%E2%86%92+Automatizando+processos+%E2%86%92+Entregando+impacto;Code.+Create.+Connect.+Repeat.;Estagi%C3%A1rio+de+TI+%7C+Desenvolvedor+%7C+Problem+Solver" alt="Texto animado de apresentação"/>
@@ -23,7 +23,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=L1nss&label=VISITANTES%20NO%20UNIVERSO&color=ec4899&style=for-the-badge" alt="Visualizações do perfil"/>
+<img src="https://komarev.com/ghpvc/?username=L1nss&label=VISITANTES%20NO%20UNIVERSO&color=8f6aa8&style=for-the-badge" alt="Visualizações do perfil"/>
 
 </div>
 
@@ -128,7 +128,7 @@ Meu espaço para apresentar projetos, experiências e a evolução da minha jorn
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=L1nss&theme=radical&hide_border=true&background=0D0221&ring=22D3EE&fire=EC4899&currStreakLabel=22D3EE" alt="Sequência de contribuições"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=L1nss&theme=radical&hide_border=true&background=0D0221&ring=C9B8E8&fire=A875B8&currStreakLabel=C9B8E8" alt="Sequência de contribuições"/>
 
 </div>
 
@@ -140,7 +140,7 @@ Meu espaço para apresentar projetos, experiências e a evolução da minha jorn
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=L1nss&bg_color=09001f&color=22d3ee&line=ec4899&point=ffffff&area_color=7c3aed&area=true&hide_border=true&custom_title=Atividade%20no%20universo%20do%20c%C3%B3digo" alt="Gráfico de atividade" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=L1nss&bg_color=09001f&color=c9b8e8&line=ec4899&point=ffffff&area_color=76519b&area=true&hide_border=true&custom_title=Atividade%20no%20universo%20do%20c%C3%B3digo" alt="Gráfico de atividade" width="100%"/>
 
 </div>
 
@@ -173,6 +173,6 @@ Estou aberto a trocar ideias, colaborar em projetos e conhecer oportunidades em 
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,25:0891b2,55:7c3aed,80:ec4899,100:09001f&height=150&section=footer&animation=twinkling" alt="Rodapé neon animado" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,25:0891b2,55:76519b,80:a875b8,100:1b1028&height=150&section=footer&animation=twinkling" alt="Rodapé roxo animado" width="100%"/>
 
 </div>
