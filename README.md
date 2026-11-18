@@ -5,21 +5,21 @@
 <img src="./assets/profile-hero.svg" alt="Hero autoral animado de Ryan Dalcin" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=600&color=22D3EE&center=true&vCenter=true&width=850&lines=%E2%9A%A1+WELCOME+TO+MY+DIGITAL+UNIVERSE+%E2%9A%A1;Construindo+ideias+%E2%86%92+Automatizando+processos+%E2%86%92+Entregando+impacto;Code.+Create.+Connect.+Repeat.;Estagi%C3%A1rio+de+TI+%7C+Desenvolvedor+%7C+Problem+Solver" alt="Texto animado de apresentação"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=600&color=C9B8E8&center=true&vCenter=true&width=850&lines=%E2%9A%A1+WELCOME+TO+MY+DIGITAL+UNIVERSE+%E2%9A%A1;Construindo+ideias+%E2%86%92+Automatizando+processos+%E2%86%92+Entregando+impacto;Code.+Create.+Connect.+Repeat.;Estagi%C3%A1rio+de+TI+%7C+Desenvolvedor+%7C+Problem+Solver" alt="Texto animado de apresentação"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-22d3ee?style=for-the-badge&labelColor=09001f" alt="Status online"/>
-<img src="https://img.shields.io/badge/FOCO-INOVA%C3%87%C3%83O-ec4899?style=for-the-badge&labelColor=09001f" alt="Foco em inovação"/>
-<img src="https://img.shields.io/badge/CAFE%C3%8DNA-%E2%98%95-7c3aed?style=for-the-badge&labelColor=09001f" alt="Cafeína"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-c9b8e8?style=for-the-badge&labelColor=1b1028" alt="Status online"/>
+<img src="https://img.shields.io/badge/FOCO-INOVA%C3%87%C3%83O-a875b8?style=for-the-badge&labelColor=1b1028" alt="Foco em inovação"/>
+<img src="https://img.shields.io/badge/CAFE%C3%8DNA-%E2%98%95-76519b?style=for-the-badge&labelColor=1b1028" alt="Cafeína"/>
 
 <br/><br/>
 
-<a href="https://github.com/L1nss"><img src="https://img.shields.io/badge/GitHub-%40L1nss-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/ryandalcin/"><img src="https://img.shields.io/badge/LinkedIn-Ryan%20Dalcin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:dalcinryan0123@gmail.com"><img src="https://img.shields.io/badge/Email-Fale%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
-<a href="https://wa.me/55996601385"><img src="https://img.shields.io/badge/WhatsApp-Chamar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://github.com/L1nss"><img src="https://img.shields.io/badge/GitHub-%40L1nss-1b1028?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/ryandalcin/"><img src="https://img.shields.io/badge/LinkedIn-Ryan%20Dalcin-76519B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:dalcinryan0123@gmail.com"><img src="https://img.shields.io/badge/Email-Fale%20comigo-A875B8?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
+<a href="https://wa.me/55996601385"><img src="https://img.shields.io/badge/WhatsApp-Chamar-76519B?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
 <br/><br/>
 
@@ -67,10 +67,10 @@ Gosto de entender o caos, encontrar padrões e construir soluções mais rápida
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FRONT--END-ec4899?style=for-the-badge&logo=react&logoColor=white" alt="Front-end"/>
-<img src="https://img.shields.io/badge/AUTOMA%C3%87%C3%83O-7c3aed?style=for-the-badge&logo=python&logoColor=white" alt="Automação"/>
-<img src="https://img.shields.io/badge/BANCO%20DE%20DADOS-0891b2?style=for-the-badge&logo=postgresql&logoColor=white" alt="Banco de dados"/>
-<img src="https://img.shields.io/badge/INFRA-22d3ee?style=for-the-badge&logo=linux&logoColor=09001f" alt="Infraestrutura"/>
+<img src="https://img.shields.io/badge/FRONT--END-a875b8?style=for-the-badge&logo=react&logoColor=white" alt="Front-end"/>
+<img src="https://img.shields.io/badge/AUTOMA%C3%87%C3%83O-76519b?style=for-the-badge&logo=python&logoColor=white" alt="Automação"/>
+<img src="https://img.shields.io/badge/BANCO%20DE%20DADOS-6d4c86?style=for-the-badge&logo=postgresql&logoColor=white" alt="Banco de dados"/>
+<img src="https://img.shields.io/badge/INFRA-c9b8e8?style=for-the-badge&logo=linux&logoColor=1b1028" alt="Infraestrutura"/>
 
 </div>
 
@@ -84,7 +84,7 @@ Gosto de entender o caos, encontrar padrões e construir soluções mais rápida
 
 Uma solução para organização e gestão de tecnologia da informação, pensada para transformar processos em clareza.
 
-<a href="https://github.com/L1nss/GesTI"><img src="https://img.shields.io/badge/EXPLORAR-22d3ee?style=for-the-badge&logo=github&logoColor=09001f" alt="Explorar GesTI"/></a>
+<a href="https://github.com/L1nss/GesTI"><img src="https://img.shields.io/badge/EXPLORAR-c9b8e8?style=for-the-badge&logo=github&logoColor=1b1028" alt="Explorar GesTI"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -93,7 +93,7 @@ Uma solução para organização e gestão de tecnologia da informação, pensad
 
 Integrações e experimentos com APIs para conectar dados, serviços e possibilidades.
 
-<a href="https://github.com/L1nss/api-hunters"><img src="https://img.shields.io/badge/EXPLORAR-ec4899?style=for-the-badge&logo=github&logoColor=white" alt="Explorar API Hunters"/></a>
+<a href="https://github.com/L1nss/api-hunters"><img src="https://img.shields.io/badge/EXPLORAR-a875b8?style=for-the-badge&logo=github&logoColor=white" alt="Explorar API Hunters"/></a>
 
 </td>
 </tr>
@@ -104,7 +104,7 @@ Integrações e experimentos com APIs para conectar dados, serviços e possibili
 
 Uma aplicação para organizar ideias, anotações e informações sem complicar.
 
-<a href="https://github.com/L1nss/PlusNote"><img src="https://img.shields.io/badge/EXPLORAR-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Explorar PlusNote"/></a>
+<a href="https://github.com/L1nss/PlusNote"><img src="https://img.shields.io/badge/EXPLORAR-76519b?style=for-the-badge&logo=github&logoColor=white" alt="Explorar PlusNote"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -113,7 +113,7 @@ Uma aplicação para organizar ideias, anotações e informações sem complicar
 
 Meu espaço para apresentar projetos, experiências e a evolução da minha jornada.
 
-<a href="https://github.com/L1nss/Ryan-Dalcin-Portifolio"><img src="https://img.shields.io/badge/EXPLORAR-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="Explorar portfólio"/></a>
+<a href="https://github.com/L1nss/Ryan-Dalcin-Portifolio"><img src="https://img.shields.io/badge/EXPLORAR-6d4c86?style=for-the-badge&logo=github&logoColor=white" alt="Explorar portfólio"/></a>
 
 </td>
 </tr>
@@ -140,7 +140,7 @@ Meu espaço para apresentar projetos, experiências e a evolução da minha jorn
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=L1nss&bg_color=09001f&color=c9b8e8&line=ec4899&point=ffffff&area_color=76519b&area=true&hide_border=true&custom_title=Atividade%20no%20universo%20do%20c%C3%B3digo" alt="Gráfico de atividade" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=L1nss&bg_color=1b1028&color=c9b8e8&line=a875b8&point=ffffff&area_color=76519b&area=true&hide_border=true&custom_title=Atividade%20no%20universo%20do%20c%C3%B3digo" alt="Gráfico de atividade" width="100%"/>
 
 </div>
 
@@ -155,7 +155,7 @@ Meu espaço para apresentar projetos, experiências e a evolução da minha jorn
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2300&pause=800&color=22D3EE&center=true&vCenter=true&width=760&lines=%5B+curiosity%5D+%2B+%5B+code%5D+%2B+%5B+coffee+%5D+%3D+%5B+impact+%5D;while(alive)+%7B+learn()%3B+build()%3B+repeat()%3B+%7D" alt="Modo de trabalho animado"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2300&pause=800&color=C9B8E8&center=true&vCenter=true&width=760&lines=%5B+curiosity%5D+%2B+%5B+code%5D+%2B+%5B+coffee+%5D+%3D+%5B+impact+%5D;while(alive)+%7B+learn()%3B+build()%3B+repeat()%3B+%7D" alt="Modo de trabalho animado"/>
 
 </div>
 
