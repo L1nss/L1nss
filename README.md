@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1028,25:4c2a63,55:76519b,80:a875b8,100:c9b8e8&height=230&section=header&text=RYAN%20DALCIN&fontSize=58&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=TI%20%7C%20Web%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Infraestrutura&descAlignY=60&descSize=18" alt="Banner roxo animado" width="100%"/>
+<img src="./assets/profile-hero.svg" alt="Hero autoral animado de Ryan Dalcin" width="100%"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=600&color=22D3EE&center=true&vCenter=true&width=850&lines=%E2%9A%A1+WELCOME+TO+MY+DIGITAL+UNIVERSE+%E2%9A%A1;Construindo+ideias+%E2%86%92+Automatizando+processos+%E2%86%92+Entregando+impacto;Code.+Create.+Connect.+Repeat.;Estagi%C3%A1rio+de+TI+%7C+Desenvolvedor+%7C+Problem+Solver" alt="Texto animado de apresentação"/>
@@ -63,7 +63,7 @@ Gosto de entender o caos, encontrar padrões e construir soluções mais rápida
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,html,css,react,vue,python,mysql,postgres,git,github,vscode,linux,figma&perline=7&theme=dark" alt="Tecnologias conhecidas"/>
+<img src="./assets/stack-orbit.svg" alt="Stack tecnológica em órbita" width="100%"/><br/><br/><img src="https://skillicons.dev/icons?i=js,html,css,react,vue,python,mysql,postgres,git,github,vscode,linux,figma&perline=7&theme=dark" alt="Tecnologias conhecidas"/>
 
 <br/><br/>
 
@@ -173,6 +173,6 @@ Estou aberto a trocar ideias, colaborar em projetos e conhecer oportunidades em 
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,25:0891b2,55:76519b,80:a875b8,100:1b1028&height=150&section=footer&animation=twinkling" alt="Rodapé roxo animado" width="100%"/>
+<img src="./assets/profile-footer.svg" alt="Rodapé autoral animado" width="100%"/>
 
 </div>
