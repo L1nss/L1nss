@@ -1,17 +1,17 @@
-<!-- ✨ RYAN DALCIN | PURPLE PROFILE ✨ -->
+<!-- ✨ RYAN DALCIN | PERFIL ROXO ✨ -->
 
 <div align="center">
 
 <img src="./assets/profile-hero.svg" alt="Hero autoral animado de Ryan Dalcin" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=600&color=C9B8E8&center=true&vCenter=true&width=850&lines=%E2%9A%A1+WELCOME+TO+MY+DIGITAL+UNIVERSE+%E2%9A%A1;Construindo+ideias+%E2%86%92+Automatizando+processos+%E2%86%92+Entregando+impacto;Code.+Create.+Connect.+Repeat.;Estagi%C3%A1rio+de+TI+%7C+Desenvolvedor+%7C+Problem+Solver" alt="Texto animado de apresentação"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=600&color=C9B8E8&center=true&vCenter=true&width=850&lines=%E2%9A%A1+OL%C3%81%2C+EU+SOU+O+RYAN+%F0%9F%91%8B;Criando+solu%C3%A7%C3%B5es+%E2%86%92+Automatizando+tarefas+%E2%86%92+Aprendendo+sempre;C%C3%B3digo%2C+criatividade+e+vontade+de+aprender.;Estagi%C3%A1rio+de+TI+%7C+Desenvolvimento+%7C+Infraestrutura" alt="Texto animado de apresentação"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-c9b8e8?style=for-the-badge&labelColor=1b1028" alt="Status online"/>
-<img src="https://img.shields.io/badge/FOCO-INOVA%C3%87%C3%83O-a875b8?style=for-the-badge&labelColor=1b1028" alt="Foco em inovação"/>
+<img src="https://img.shields.io/badge/STATUS-DISPON%C3%8DVEL-c9b8e8?style=for-the-badge&labelColor=1b1028" alt="Status online"/>
+<img src="https://img.shields.io/badge/FOCO-TECNOLOGIA-a875b8?style=for-the-badge&labelColor=1b1028" alt="Foco em inovação"/>
 <img src="https://img.shields.io/badge/CAFE%C3%8DNA-%E2%98%95-76519b?style=for-the-badge&labelColor=1b1028" alt="Cafeína"/>
 
 <br/><br/>
@@ -33,7 +33,7 @@
 
 ---
 
-## 🪐 Quem está por trás do código?
+## 🪐 Sobre mim
 
 <div align="center">
 
@@ -41,25 +41,25 @@
 
 </div>
 
-Olá! Eu sou o **Ryan Dalcin** — um estagiário de TI que gosta de transformar problemas reais em experiências digitais que funcionam de verdade.
+Olá! Eu sou o **Ryan Dalcin**. Sou estagiário de TI e gosto de aprender construindo coisas que resolvem problemas reais.
 
-Na **Secretaria Estadual da Agricultura, Pecuária e Irrigação (SEAPI)**, atuo em uma mistura que adoro:
+Na **Secretaria Estadual da Agricultura, Pecuária e Irrigação (SEAPI)**, trabalho com:
 
 > **automação + desenvolvimento + redes + infraestrutura + criatividade**
 
-Gosto de entender o caos, encontrar padrões e construir soluções mais rápidas, bonitas e úteis. Meu objetivo é sempre deixar cada sistema, processo ou ambiente um pouco melhor do que encontrei.
+No dia a dia, faço manutenção de códigos, automações, sites e sistemas. Também ajudo com redes e infraestrutura. Gosto de deixar as coisas organizadas, funcionando bem e fáceis de usar.
 
 <br clear="right"/>
 
 <div align="center">
 
-### 🎯 Minha missão
+### 🎯 O que estou buscando
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=700&color=F472B6&center=true&vCenter=true&width=700&lines=Resolver+problemas+com+tecnologia;Criar+experi%C3%AAncias+que+as+pessoas+gostam+de+usar;Aprender+algo+novo+em+cada+projeto" alt="Missão animada"/>
 
 </div>
 
-## 🧪 Minha stack em movimento
+## 🧪 Tecnologias que uso
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Gosto de entender o caos, encontrar padrões e construir soluções mais rápida
 
 </div>
 
-## 🚀 Projetos que estão orbitando
+## 🚀 Projetos em destaque
 
 <table>
 <tr>
@@ -82,18 +82,18 @@ Gosto de entender o caos, encontrar padrões e construir soluções mais rápida
 
 ### ⚙️ GesTI
 
-Uma solução para organização e gestão de tecnologia da informação, pensada para transformar processos em clareza.
+Sistema voltado à organização e gestão de TI.
 
-<a href="https://github.com/L1nss/GesTI"><img src="https://img.shields.io/badge/EXPLORAR-c9b8e8?style=for-the-badge&logo=github&logoColor=1b1028" alt="Explorar GesTI"/></a>
+<a href="https://github.com/L1nss/GesTI"><img src="https://img.shields.io/badge/EXPLORAR-c9b8e8?style=for-the-badge&logo=github&logoColor=1b1028" alt="Entender GesTI"/></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧩 API Hunters
 
-Integrações e experimentos com APIs para conectar dados, serviços e possibilidades.
+Projeto para trabalhar com APIs e integrações.
 
-<a href="https://github.com/L1nss/api-hunters"><img src="https://img.shields.io/badge/EXPLORAR-a875b8?style=for-the-badge&logo=github&logoColor=white" alt="Explorar API Hunters"/></a>
+<a href="https://github.com/L1nss/api-hunters"><img src="https://img.shields.io/badge/EXPLORAR-a875b8?style=for-the-badge&logo=github&logoColor=white" alt="Entender API Hunters"/></a>
 
 </td>
 </tr>
@@ -102,28 +102,28 @@ Integrações e experimentos com APIs para conectar dados, serviços e possibili
 
 ### 📝 PlusNote
 
-Uma aplicação para organizar ideias, anotações e informações sem complicar.
+Aplicação simples para organizar anotações.
 
-<a href="https://github.com/L1nss/PlusNote"><img src="https://img.shields.io/badge/EXPLORAR-76519b?style=for-the-badge&logo=github&logoColor=white" alt="Explorar PlusNote"/></a>
+<a href="https://github.com/L1nss/PlusNote"><img src="https://img.shields.io/badge/EXPLORAR-76519b?style=for-the-badge&logo=github&logoColor=white" alt="Entender PlusNote"/></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 💼 Portfólio
 
-Meu espaço para apresentar projetos, experiências e a evolução da minha jornada.
+Meu portfólio com projetos e experiências.
 
-<a href="https://github.com/L1nss/Ryan-Dalcin-Portifolio"><img src="https://img.shields.io/badge/EXPLORAR-6d4c86?style=for-the-badge&logo=github&logoColor=white" alt="Explorar portfólio"/></a>
+<a href="https://github.com/L1nss/Ryan-Dalcin-Portifolio"><img src="https://img.shields.io/badge/EXPLORAR-6d4c86?style=for-the-badge&logo=github&logoColor=white" alt="Entender portfólio"/></a>
 
 </td>
 </tr>
 </table>
 
-## 📊 Painel de controle
+## 📊 Estatísticas
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=L1nss&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Ryan%27s%20GitHub%20Console" alt="Estatísticas do GitHub"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=L1nss&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=GitHub%20do%20Ryan" alt="Estatísticas do GitHub"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nss&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Linguagens mais usadas"/>
 
 <br/>
@@ -132,7 +132,7 @@ Meu espaço para apresentar projetos, experiências e a evolução da minha jorn
 
 </div>
 
-## 🐍 Contribuições em modo arcade
+## 🐍 Contribuições
 
 <div align="center">
 
@@ -144,24 +144,24 @@ Meu espaço para apresentar projetos, experiências e a evolução da minha jorn
 
 </div>
 
-## 🎮 Modo de trabalho
+## 🎮 Como eu trabalho
 
 <div align="center">
 
-| 🔍 Explorar | 🛠️ Construir | ✨ Melhorar |
+| 🔍 Entender | 🛠️ Desenvolver | ✨ Ajustar |
 |:---:|:---:|:---:|
-| Entender o problema | Transformar ideia em código | Polir até ficar incrível |
+| Conversar sobre o problema | Criar uma solução | Testar e melhorar |
 | Fazer perguntas | Testar e automatizar | Entregar com propósito |
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2300&pause=800&color=C9B8E8&center=true&vCenter=true&width=760&lines=%5B+curiosity%5D+%2B+%5B+code%5D+%2B+%5B+coffee+%5D+%3D+%5B+impact+%5D;while(alive)+%7B+learn()%3B+build()%3B+repeat()%3B+%7D" alt="Modo de trabalho animado"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2300&pause=800&color=C9B8E8&center=true&vCenter=true&width=760&lines=%5B+curiosity%5D+%2B+%5B+code%5D+%2B+%5B+coffee+%5D+%3D+%5B+impact+%5D;enquanto+eu+estiver+aprendendo%3A+continuar()" alt="Como eu trabalho animado"/>
 
 </div>
 
-## 🌌 Vamos criar algo fora da curva?
+## 🌌 Vamos conversar?
 
-Estou aberto a trocar ideias, colaborar em projetos e conhecer oportunidades em desenvolvimento, automação e infraestrutura.
+Se quiser trocar uma ideia sobre tecnologia, projetos ou oportunidades, pode me chamar.
 
 <div align="center">
 
