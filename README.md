@@ -10,8 +10,8 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-DISPON%C3%8DVEL-c9b8e8?style=for-the-badge&labelColor=1b1028" alt="Status online"/>
-<img src="https://img.shields.io/badge/FOCO-TECNOLOGIA-a875b8?style=for-the-badge&labelColor=1b1028" alt="Foco em inovação"/>
+<img src="https://img.shields.io/badge/STATUS-DISPON%C3%8DVEL-c9b8e8?style=for-the-badge&labelColor=1b1028" alt="Status disponível"/>
+<img src="https://img.shields.io/badge/FOCO-TECNOLOGIA-a875b8?style=for-the-badge&labelColor=1b1028" alt="Foco em tecnologia"/>
 <img src="https://img.shields.io/badge/CAFE%C3%8DNA-%E2%98%95-76519b?style=for-the-badge&labelColor=1b1028" alt="Cafeína"/>
 
 <br/><br/>
@@ -23,7 +23,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=L1nss&label=VISITANTES%20NO%20UNIVERSO&color=8f6aa8&style=for-the-badge" alt="Visualizações do perfil"/>
+<img src="https://komarev.com/ghpvc/?username=L1nss&label=VISUALIZA%C3%87%C3%95ES%20DO%20PERFIL&color=8f6aa8&style=for-the-badge" alt="Visualizações do perfil"/>
 
 </div>
 
@@ -55,7 +55,7 @@ No dia a dia, faço manutenção de códigos, automações, sites e sistemas. Ta
 
 ### 🎯 O que estou buscando
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=700&color=F472B6&center=true&vCenter=true&width=700&lines=Resolver+problemas+com+tecnologia;Criar+experi%C3%AAncias+que+as+pessoas+gostam+de+usar;Aprender+algo+novo+em+cada+projeto" alt="Missão animada"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=700&color=F472B6&center=true&vCenter=true&width=700&lines=Resolver+problemas+sem+complicar;Criar+solu%C3%A7%C3%B5es+que+ajudem+de+verdade;Aprender+com+cada+projeto" alt="Missão animada"/>
 
 </div>
 
@@ -84,7 +84,7 @@ No dia a dia, faço manutenção de códigos, automações, sites e sistemas. Ta
 
 Sistema voltado à organização e gestão de TI.
 
-<a href="https://github.com/L1nss/GesTI"><img src="https://img.shields.io/badge/EXPLORAR-c9b8e8?style=for-the-badge&logo=github&logoColor=1b1028" alt="Entender GesTI"/></a>
+<a href="https://github.com/L1nss/GesTI"><img src="https://img.shields.io/badge/EXPLORAR-c9b8e8?style=for-the-badge&logo=github&logoColor=1b1028" alt="Ver GesTI"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -93,7 +93,7 @@ Sistema voltado à organização e gestão de TI.
 
 Projeto para trabalhar com APIs e integrações.
 
-<a href="https://github.com/L1nss/api-hunters"><img src="https://img.shields.io/badge/EXPLORAR-a875b8?style=for-the-badge&logo=github&logoColor=white" alt="Entender API Hunters"/></a>
+<a href="https://github.com/L1nss/api-hunters"><img src="https://img.shields.io/badge/EXPLORAR-a875b8?style=for-the-badge&logo=github&logoColor=white" alt="Ver API Hunters"/></a>
 
 </td>
 </tr>
@@ -104,7 +104,7 @@ Projeto para trabalhar com APIs e integrações.
 
 Aplicação simples para organizar anotações.
 
-<a href="https://github.com/L1nss/PlusNote"><img src="https://img.shields.io/badge/EXPLORAR-76519b?style=for-the-badge&logo=github&logoColor=white" alt="Entender PlusNote"/></a>
+<a href="https://github.com/L1nss/PlusNote"><img src="https://img.shields.io/badge/EXPLORAR-76519b?style=for-the-badge&logo=github&logoColor=white" alt="Ver PlusNote"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -113,7 +113,7 @@ Aplicação simples para organizar anotações.
 
 Meu portfólio com projetos e experiências.
 
-<a href="https://github.com/L1nss/Ryan-Dalcin-Portifolio"><img src="https://img.shields.io/badge/EXPLORAR-6d4c86?style=for-the-badge&logo=github&logoColor=white" alt="Entender portfólio"/></a>
+<a href="https://github.com/L1nss/Ryan-Dalcin-Portifolio"><img src="https://img.shields.io/badge/EXPLORAR-6d4c86?style=for-the-badge&logo=github&logoColor=white" alt="Ver portfólio"/></a>
 
 </td>
 </tr>
